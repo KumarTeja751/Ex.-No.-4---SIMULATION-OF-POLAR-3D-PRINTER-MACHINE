@@ -1,7 +1,5 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
@@ -59,10 +57,5 @@ material that is used to create the printed object.
 ## Playing with Axes
 
 ![image](https://github.com/Goutham2306/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971154/50cd3bde-52d0-43d6-a19b-5f3c9387d0ca)
-
-
-### Name:Naramala Kumarteja
-### Register Number:23003525
-
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
